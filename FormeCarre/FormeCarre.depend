@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1677169508 source:c:\users\mland_rc5pg1x\desktop\devoir c++\formecarre\carre.cpp
+	<iostream>
+	"Carre.h"
+
+1677169504 c:\users\mland_rc5pg1x\desktop\devoir c++\formecarre\carre.h
+
+1677168783 source:c:\users\mland_rc5pg1x\desktop\devoir c++\formecarre\main.cpp
+	<iostream>
+	"Carre.h"
+
+1677168783 source:c:\users\mland_rc5pg1x\desktop\mes codes\codes c++\formecarre\main.cpp
+	<iostream>
+	"Carre.h"
+
+1677504422 c:\users\mland_rc5pg1x\desktop\mes codes\codes c++\formecarre\carre.h
+
+1677504416 source:c:\users\mland_rc5pg1x\desktop\mes codes\codes c++\formecarre\carre.cpp
+	<iostream>
+	"Carre.h"
+

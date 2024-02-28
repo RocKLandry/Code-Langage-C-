@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1677863780 source:c:\users\mland_rc5pg1x\desktop\devoir c++\heritagesimple\main.cpp
+	<iostream>
+	"Personne.h"
+	"Etudiant.h"
+	"Enseignant.h"
+
+1677862826 source:c:\users\mland_rc5pg1x\desktop\devoir c++\heritagesimple\personne.cpp
+	<iostream>
+	"Personne.h"
+
+1677863797 c:\users\mland_rc5pg1x\desktop\devoir c++\heritagesimple\personne.h
+
+1677862611 c:\users\mland_rc5pg1x\desktop\devoir c++\heritagesimple\etudiant.h
+	"Personne.h"
+
+1677863149 c:\users\mland_rc5pg1x\desktop\devoir c++\heritagesimple\enseignant.h
+	"Personne.h"
+
